@@ -7,4 +7,5 @@ Uma linguagem desenvolvida para criar planner de treinamento de academia.
 
 # Exemplo.
 Entrada:
+
 Saída:
