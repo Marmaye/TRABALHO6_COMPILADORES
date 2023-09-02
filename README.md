@@ -1,5 +1,5 @@
 # GymPlanner.
-Uma linguagem desenvolvida para criar planner de treinamento de academia.
+Uma linguagem desenvolvida para criar planner semanal de treinamento de academia.
 
 # Compilar.
 
