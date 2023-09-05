@@ -2,8 +2,15 @@
 Uma linguagem desenvolvida para criar planner semanal de treinamento de academia.
 
 # Compilar.
+1.mvn clean package.
+compilar e empacotar o projeto.
+
+2. mvn install
+instala todas as dependência necessárias e gera o executável.
+
 
 # Executar.
+java -jar target/gymplanner-1.0-SNAPSHOT-jar-with-dependencies.jar C:\caminho\para\arquivo.txt saida.html
 
 # Exemplo.
 Entrada:
