@@ -19,3 +19,6 @@ java -jar target/gymplanner-1.0-SNAPSHOT-jar-with-dependencies.jar C:\caminho\pa
 
 **Saída:**
 ![image](https://github.com/Marmaye/TRABALHO6_COMPILADORES/assets/137102335/9bfe50fe-75cb-4b93-af42-26d17b579222)
+
+# Vídeo
+Link: https://drive.google.com/file/d/1hM636N7N7wLTVqezFIUq_bucn3c7PVSz/view?usp=drive_link
