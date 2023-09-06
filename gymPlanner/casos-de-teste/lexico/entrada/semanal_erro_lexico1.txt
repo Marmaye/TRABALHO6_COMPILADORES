@@ -1,0 +1,10 @@
+GymPlanner semanal [
+
+    Maria{
+        inicio: quinta-feira 17:00
+        
+    pedro{
+        inicio: sexta-feira 13:30
+    }
+    
+}

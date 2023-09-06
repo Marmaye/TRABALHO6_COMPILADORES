@@ -1,0 +1,22 @@
+/*erro fechamento da descricao*/
+GymPlanner semanal{
+    Manuela{
+        inicio: segunda 15:00
+    }
+
+    Cirilo{
+        inicio: terca 15:00
+        fim: sexta 16:00
+    }
+
+    Jose{
+        inicio: quinta
+        fim: domingo
+    }
+    
+    Aulas{
+        inicio: segunda 08:00
+        fim: sexta 23:59
+        descricao: "as aulas vao ate sexta da semana que vem
+    }
+}

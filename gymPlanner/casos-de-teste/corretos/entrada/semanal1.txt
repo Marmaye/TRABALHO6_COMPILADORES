@@ -1,0 +1,9 @@
+gymPlanner semanal{
+    Maye {
+        inicio: terca-feira 16:00
+        fim: sexta 16:00
+        descricao: "Aerobicos"
+    }
+}
+
+

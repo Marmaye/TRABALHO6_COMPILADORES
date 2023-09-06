@@ -1,0 +1,10 @@
+GymPlanner semanal{
+	Joao{
+		inicio:segunda-feira 16:00
+		fim: sexta-feira 18:00
+		descricao:"Aerobicos"
+	}
+
+
+
+}

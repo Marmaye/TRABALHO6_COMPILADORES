@@ -1,0 +1,7 @@
+GymPlanner semanal{
+    
+    Alicia{
+        inicio: segunda-feira 25:30
+    }
+
+}

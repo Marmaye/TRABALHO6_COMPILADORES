@@ -1,0 +1,7 @@
+GymPlanner semanal{
+	Julia{
+		inicio:terca-feira 16:00
+		fim: terca-feira 18:00
+		descricao:" posteriores"
+	}
+}
